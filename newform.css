@@ -1,0 +1,51 @@
+
+*{
+margin: 0;
+padding: 1;
+align-items: center;
+
+
+}
+.neck{
+    height: 150vh;
+    width: 100vw;
+    align-items: center;
+
+
+}
+.check{
+    height: 250vh;
+    width: 35vw;
+align-items: center;
+}
+.heck{
+    width: 425px;
+    height: 300px;
+    background-color:skyblue;
+    padding-left: 6px;
+    border: 5px black;
+    border-radius: 5px;
+    box-shadow: 5px;
+    margin-left: 600px;
+    margin-top: 200px;
+
+
+    
+
+
+}
+input{
+    width: 400px;
+    margin-left: 4px;
+    border: 2px solid black;
+    padding: 3px;
+    border-radius: 15px;
+    outline: none;
+    
+}
+form{
+
+    flex-direction: column;
+    align-items: center;
+    
+}

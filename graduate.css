@@ -1,0 +1,141 @@
+
+.gt{
+    font-weight:bold;
+    color: rgb(37, 35, 35);
+    text-align: center;
+    font-size: 130px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 20px 20px 20px gray;
+    object-position: fixed;
+
+}
+
+
+a{
+    color: black;
+    margin: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    text-shadow: 10px 10px 10px gray;
+
+    
+}
+.heck{
+    float: right;
+    margin-right: 50px;
+}
+input{
+    width: 400px;
+    border-radius: 15px;
+    padding: 5px;
+    margin:0%;
+    box-shadow: 20px 20px 20px black;
+}
+.new{
+margin-left: 50px;
+}
+body{
+/* background-image: url(men-fashion-logo-design-template_448617-346-removebg-preview.png); */
+background-image: url(men-fashion-logo-design-template_448617-346-removebg-preview.png);
+
+/* background-repeat: no-repeat; */
+/* text-align: center; */
+margin-top: 0%;
+background-attachment: fixed;
+/* background-position: fixed; */
+/* width: 100px; */
+/* height: max-content; */
+/* background-position: left; */
+background-size: 350px;
+margin-top: 10px;
+/* margin: 100px; */
+/* margin-left: 200px; */
+/* box-shadow: 20px 20px 20px black; */
+
+
+}
+hr{
+ color: blue;
+ 
+}
+.foot{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    /* text-shadow: 20px 20px 30px gray ; */
+    
+
+    
+}
+p{
+    text-shadow: 20px 20px 20px black;
+}
+details,summary{
+    margin: 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 15px 15px 15px rgb(34, 33, 33);
+}
+select{
+    width: 100px;
+    background: black;
+    color: aliceblue;
+    box-sizing: content-box;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px gray;
+}
+textarea{
+    box-shadow: 15px 15px 15px gray;
+    margin-bottom: 15px;
+    margin-top: 0%;
+    border-radius: 30px;
+    border-width: 10px;
+    border-color: black;
+    border-style: double;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+label,#name,#bham{
+    font-weight: bold;
+    margin-bottom: 15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 20px;
+    /* text-shadow: 20px 20px 20px black; */
+    box-shadow: 20px 20px 20px black;
+    border-radius: 15px;
+    border-color: black;
+
+}
+#file{
+    margin-bottom: 20px;
+    background-color: rgb(37, 29, 29);
+    width: 90px;
+}
+#btn{
+    width: 110px;
+    border-radius: 15px;
+    color: white;
+    font-style:italic;
+    background-color: black;
+    border-color: aliceblue;
+    border-width: 4px;
+    margin-top: 10px;
+    box-shadow: 20px 20px 20px black
+}
+h5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 20px 20px 20px black;
+}
+@media (max-width = 600px) {
+    .gt{
+        font-weight:bold;
+        color: rgb(37, 35, 35);
+        text-align: center;
+        font-size: 130px;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        text-shadow: 20px 20px 20px gray;
+        object-position: fixed;
+    
+    }
+    
+}
