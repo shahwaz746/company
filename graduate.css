@@ -126,16 +126,104 @@ h5{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-shadow: 20px 20px 20px black;
 }
-@media (max-width = 600px) {
+
+
+
+@media (max-width:600px){
+
     .gt{
         font-weight:bold;
         color: rgb(37, 35, 35);
         text-align: center;
-        font-size: 130px;
+        font-size: 50px;
         font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
         text-shadow: 20px 20px 20px gray;
         object-position: fixed;
+        margin-bottom: 30px;
+        /* position: fixed; */
+        position: sticky;
     
     }
+    a{
+        color: black;
+        margin: 10px;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 15px;
+        text-shadow: 10px 10px 10px gray;
+        text-align: center;
+        /* border: 2px solid black; */
     
+        
+    }
+
+    .new{
+
+        /* display: flex; */
+        /* flex-direction: column; */
+        margin-top: 20px;
+        margin-left: 30px;
+
+
+
+    }
+
+    input{
+        width: 300px;
+        border-radius: 15px;
+        padding: 5px;
+        margin:0%;
+        box-shadow: 20px 20px 20px black;
+        /* margin-left: 2000px; */
+        /* margin-bottom: 30px */
+    }
+    .heck {
+        float: right;
+        /* position: absolute; */
+        margin-right: 40px;
+        /* margin-left: 40px; */
+        /* margin-top: 10px; */
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        /* border: 2px solid black; */
+        margin-bottom: 60px;
+        
+    }
+
+    select{
+        width: 100px;
+        background: black;
+        color: aliceblue;
+        box-sizing: content-box;
+        border-radius: 10px;
+        box-shadow: 10px 10px 10px gray;
+        margin-top: 30px;
+    }
+    .new{
+        margin-left: 30px;
+        margin-top: 20px;
+        }  
+
+        textarea{
+            box-shadow: 15px 15px 15px gray;
+            margin-bottom: 15px;
+            margin-top: 0%;
+            border-radius: 30px;
+            border-width: 10px;
+            border-color: black;
+            border-style: double;
+            width: 290px;
+        }
+
+        .spn{
+
+            /* border: 2px solid black; */
+
+        
+        }
+
+        main{
+
+            margin-top: 10px;
+        }
 }
