@@ -127,6 +127,19 @@ h5{
     text-shadow: 20px 20px 20px black;
 }
 
+.logo img{
+
+    height: 160px;
+}
+
+.logo{
+    /* border: 2px solid black; */
+    display: inline-block;
+
+    position: absolute;
+    top: 20px;
+}
+
 
 
 @media (max-width:600px){
@@ -142,6 +155,7 @@ h5{
         margin-bottom: 30px;
         /* position: fixed; */
         position: sticky;
+        margin-left: 90px;
     
     }
     a{
@@ -226,4 +240,20 @@ h5{
 
             margin-top: 10px;
         }
+
+        .logo{
+            /* border: 2px solid black; */
+            display: inline-block;
+        
+            position: absolute;
+            top: 10px;
+            left: 10px;
+        }
+        .logo img{
+
+            height: 60px;
+        }
+        
+
+
 }
